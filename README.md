@@ -1,0 +1,1 @@
+# Japanese-Linguistic-Acceptability-Judgment-Model-Trained-on-Synthetic-Data-by-GPT-4
